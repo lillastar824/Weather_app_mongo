@@ -56,7 +56,7 @@ module.exports = {
 
 ## Authors
 
-* **BugKiller** - 
+* **Jacky** - 
 
 ## License
 
